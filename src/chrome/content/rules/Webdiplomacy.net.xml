@@ -1,0 +1,6 @@
+<ruleset name="Webdiplomacy.net">
+	<target host="webdiplomacy.net" />
+	<target host="www.webdiplomacy.net" />
+
+	<rule from="^http:" to="https:" />
+</ruleset>
